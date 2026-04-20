@@ -1,0 +1,15 @@
+{
+  "buildCommand": "npm run build",
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "https://gxcylvqvwsibomnnmbgu.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imd4Y3lsdnF2d3NpYm9tbm5tYmd1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY2MjA3NDgsImV4cCI6MjA5MjE5Njc0OH0.HbN0xhTCrXYQpYvUNgIupRxL8xqjzT47tMoXYT3pRq8",
+    "SUPABASE_SERVICE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imd4Y3lsdnF2d3NpYm9tbm5tYmd1Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3NjYyMDc0OCwiZXhwIjoyMDkyMTk2NzQ4fQ.KgWSc5qtckpOT2ZrskWrZQwM9CHXrjGzlsHOcPClWfs"
+  },
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_SUPABASE_URL": "https://gxcylvqvwsibomnnmbgu.supabase.co",
+      "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imd4Y3lsdnF2d3NpYm9tbm5tYmd1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY2MjA3NDgsImV4cCI6MjA5MjE5Njc0OH0.HbN0xhTCrXYQpYvUNgIupRxL8xqjzT47tMoXYT3pRq8",
+      "SUPABASE_SERVICE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imd4Y3lsdnF2d3NpYm9tbm5tYmd1Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3NjYyMDc0OCwiZXhwIjoyMDkyMTk2NzQ4fQ.KgWSc5qtckpOT2ZrskWrZQwM9CHXrjGzlsHOcPClWfs"
+    }
+  }
+}
